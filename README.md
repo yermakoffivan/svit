@@ -332,6 +332,13 @@ Read [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`AGENTS.md`](AGENTS.md) before
 changing runtime behavior. Behavioral and security claims require executable
 evidence and the corresponding knowledge update.
 
+## Ecosystem
+
+Svit is part of [Everruns](https://everruns.com/projects/), a free, non-commercial
+community ecosystem of open-source AI projects by
+[Mykhailo Chalyi](https://chaliy.name) and contributors. Questions, ideas and
+research discussion are welcome on [Discord](https://everruns.com/discord).
+
 ## License
 
 Svit is available under the [MIT License](LICENSE). See [`NOTICE`](NOTICE) for
